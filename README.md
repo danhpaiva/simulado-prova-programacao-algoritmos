@@ -118,17 +118,26 @@ Dia de Mínimo de Downloads: Dom com 850.000 downloads.
 3.  **Lógica:** Implementação correta das lógicas de soma, identificação de máximo/mínimo e contagem condicional.
 4.  **Clareza e Legibilidade:** O código deve ser organizado e a saída para o console deve ser clara para o usuário.
 
-## 📝 Entrega
+## 🌟 Critérios de Avaliação (Total: 30 Pontos)
 
-1.  Crie um novo repositorio chamado: una-psc-prova-a1-matricula-par-202502. (2 pts)
-2.  Adicione um arquivo .gitignore, um arquivo licença e suba este arquivo readme. (3 pts)
-3.  Crie um arquivo chamado `ArattaiGrowthTracker.java`. (5 pts)
-4.  Insira todo o seu código Java neste arquivo. (5 pts)
-5.  Inclua seu nome completo e número de matrícula como comentário no cabeçalho do arquivo. (1 pts)
-6.  Submeta o arquivo `ArattaiGrowthTracker.java` no seu repositorio. (5 pts)
-7.  Teste seu algoritmo e envie uma imagem dele em funcionamento. (9 pts)
+A pontuação será distribuída conforme o cumprimento dos requisitos técnicos e de versionamento descritos abaixo:
 
-Qualquer descumprimento de regras ou de alguma solicitacao da prova deve acarretar em perda total ou parcial dos pontos.
+| Requisito | Descrição | Pontos |
+| :--- | :--- | :--- |
+| **Req01** | **Inicialização:** Declaração e inicialização correta dos Arrays `downloadsDiarios` e `diasDaSemana`. | 2,0 |
+| **Req02** | **Soma Total:** Implementação de loop para cálculo e exibição do total de downloads da semana. | 4,0 |
+| **Req03** | **Pico de Acesso:** Lógica para identificar o maior valor e o respectivo dia da semana. | 4,0 |
+| **Req04** | **Mínimo de Acesso:** Lógica para identificar o menor valor e o respectivo dia da semana. | 4,0 |
+| **Req05** | **Análise de Metas:** Uso de estrutura condicional para comparação dos dados com a meta diária. | 4,0 |
+| **Req06** | **Contagem de Sucesso:** Implementação de variável contadora para dias que superaram a meta. | 2,0 |
+| **Req07** | **Saída de Dados:** Formatação da saída no console conforme a Massa de Teste fornecida. | 2,0 |
+| **Req08** | **Identificação:** Presença de nome completo e matrícula no cabeçalho do código-fonte. | 1,0 |
+| **Req09** | **Qualidade Técnica:** Código organizado, sem erros de compilação e seguindo boas práticas. | 3,0 |
+| **Req10** | **Boas Práticas Git:** Repositório configurado com `.gitignore` e arquivo de `LICENSE`. | 2,0 |
+| **Req11** | **Entrega e Prazo:** Código disponível no GitHub com commit dentro do horário de aula. | 2,0 |
+| **TOTAL** | | **30,0** |
+
+> **Atenção:** O descumprimento das regras de conduta ou atraso no *commit* final resultará na anulação da pontuação conforme o edital da prova.
 
 Entregue o link do seu repositorio na plataforma.
 
