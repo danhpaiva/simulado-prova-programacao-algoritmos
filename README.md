@@ -41,7 +41,7 @@ Arattai, que significa bate-papo no idioma tâmil, teve um lançamento discreto 
 O repentino aumento em sua popularidade está sendo associado ao incentivo do governo federal à autossuficiência, em um momento em que a Índia lida com os impactos das altas tarifas comerciais impostas pelos Estados Unidos em seus produtos.
 
 Fonte: https://www.bbc.com/portuguese/articles/ced5qy7ggzgo
-<br> Acesso em 2025/10/18
+<br> Acesso em 2026/04/26
 
 ## 💡 Contexto do Problema
 
